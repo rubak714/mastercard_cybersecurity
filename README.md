@@ -29,3 +29,7 @@ Insights are used to design and implement future security training programs.
 - I learned about the critical importance of phishing awareness and its role in organizational security.
 - I gained insights into designing effective phishing simulations to identify vulnerabilities.
 - I understood how to analyze simulation results and tailor security education to mitigate threats.
+
+## Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team 
+- Helped identify and report security threats such as phishing 
+- Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
